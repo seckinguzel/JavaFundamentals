@@ -1,0 +1,7 @@
+You should use "stream()" in the following situations:
+
+When performing a homogeneous transformation on a sequence of elements.
+When filtering elements.
+When performing operations like summing, calculating minimum values, or accumulating elements in a sequence with a single operation.
+When grouping elements from a sequence into a collection.
+When searching within a sequence of elements based on specific criteria.
